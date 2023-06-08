@@ -1,0 +1,15 @@
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\bin\Debug\net6.0\Bank_xUnit.exe
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\bin\Debug\net6.0\Bank_xUnit.deps.json
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\bin\Debug\net6.0\Bank_xUnit.runtimeconfig.json
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\bin\Debug\net6.0\Bank_xUnit.dll
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\bin\Debug\net6.0\Bank_xUnit.pdb
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.csproj.AssemblyReference.cache
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.AssemblyInfoInputs.cache
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.AssemblyInfo.cs
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.csproj.CoreCompileInputs.cache
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.dll
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\refint\Bank_xUnit.dll
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.pdb
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\Bank_xUnit.genruntimeconfig.cache
+C:\Users\stage\source\repos\Bank_xUnit\Bank_xUnit\obj\Debug\net6.0\ref\Bank_xUnit.dll
